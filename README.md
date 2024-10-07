@@ -27,4 +27,4 @@ The visualizations help compare the mental health status of the USA with other c
 **INDICATOR USED:**
  DALY (Disability-Adjusted Life Years): A metric that combines years of life lost due to premature mortality and years lived with disability, providing a comprehensive measure of the overall burden of diseases, including mental health conditions.
 
-Acces Project here ---> https://sites.google.com/d/1nHzmyybZZYNtV7S8KGith-pS5o4AtJq2/p/13U6tLOBXjDbvyYiKMle5BHWfq6Z8IlHZ/edit
+Acces Project here ---> https://sites.google.com/view/mindmap-usa/home
